@@ -2,14 +2,14 @@
 Simple &amp; lightweight lightbox for Bootstrap 5
 
 
-# Basic Usage
+## Basic Usage
 Adding `data-modal="bs-lightbox"` in your A href tag. 
 
 ```
 <a data-modal="bs-lightbox" href="(Image URL to display in lightbox)" target="_blank"><img src="(Thumbnail Image URL)"></a>
 ```
 
-# Install
+## Install
 
 Insert <script> tag near by end of BODY tag.
 
@@ -17,7 +17,11 @@ Insert <script> tag near by end of BODY tag.
 <script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/avalon-studio/Bootstrap-Lightbox/bs5lightbox.js" crossorigin="anonymous"></script>
 ```
 
-# Requirement
+## Requirement
 
 Bootstrap 5.0 or higher
 
+
+## Recommend
+
+adding `.modal-content {background-color: unset;}` in your stylesheet.
