@@ -24,4 +24,9 @@ Bootstrap 5.0 or higher
 
 ## Recommend
 
-adding `.modal-content {background-color: unset;}` in your stylesheet.
+adding follow css code in your stylesheet. It's modify Bootstrap default style to fit lightbox.
+
+```
+.modal-content {background-color: unset;}
+#LightboxCanvas{max-width:100%; max-height:100%;}
+```
