@@ -9,9 +9,11 @@ Adding `data-modal="bs-lightbox"` in your A href tag.
 <a data-modal="bs-lightbox" href="(Image URL to display in lightbox)" target="_blank"><img src="(Thumbnail Image URL)"></a>
 ```
 
+## Live Demo
 You can see live demo on here:
 https://avalon-studio.work/files/bs5lightbox-js.html
 
+this is same code as sample.html in this project.
 
 ## Install
 
